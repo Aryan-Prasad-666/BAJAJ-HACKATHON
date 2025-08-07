@@ -1,0 +1,32 @@
+[
+  {
+    "query": "What is the grace period for premium payment under the National Parivar Mediclaim Plus Policy?",
+    "answer": "The grace period for premium payment under the National Parivar Mediclaim Plus Policy is thirty days.",
+    "justification": [
+      {
+        "clause_id": "clause_0",
+        "text": "2.21  Grace Period  means the specified period of time, immediately following the premium due date during which premium \npayment can be made to renew or continue a policy in force without loss of continuity benefits pertaining to Waiting Periods \nand coverage of Pre -Existing Diseases. The Grace Period for payment of the premium shall be thirty days.  \nCoverage shall not be available during the period for which no premium is received.",
+        "relevance_score": 0.5822319984436035,
+        "reason": "This clause explicitly defines the grace period and states that it is thirty days."
+      }
+    ]
+  },
+  {
+    "query": "Does this policy cover maternity expenses, and what are the conditions?",
+    "answer": "Yes, this policy covers maternity expenses for any female Insured Person, including pre-natal and post-natal hospitalization expenses per delivery, including expenses for necessary vaccination for a New Born Baby, subject to the limit as shown in the Table of Benefits. The female Insured Person should have been continuously covered for at least 24 months before availing this benefit. \n\nExclusions include:\n1.  Insured Person below eighteen (18) years and above forty-five (45) years of age.\n2.  Delivery or termination within a Waiting Period of twenty-four (24) months. However, the Waiting Period may be waived only in the case of delivery, miscarriage or abortion induced by accident.\n3.  Delivery or lawful medical termination of pregnancy limited to two deliveries or terminations or either has been paid under the Policy and its Renewals.\n4.  More than one delivery or lawful medical termination of pregnancy during a single Policy Period.\n5.  Maternity Expenses of Surrogate Mother, unless claim is admitted under Section 3.1.1 5 (Infertility)\n6.  Ectopic pregnancy\n7.  Pre and post hospitalisation expenses, other than pre and post natal treatment.",
+    "justification": [
+      {
+        "clause_id": "clause_0",
+        "text": "3.1.14 Maternity   \nThe Company shall indemnify Maternity Expenses as described below for  any female Insured Person, and also Pre -Natal and Post -\nNatal Hospitalisation expenses per delivery,  including expenses for necessary vaccination  for New Born Baby , subject to the limit National Insurance Co. Ltd.  \nPremises No. 18 -0374, Plot no. CBD -81,  \nNew Town, Kolkata - 700156  Page 7 of 25 National Parivar Mediclaim Plus Policy  \nUIN: NICHLIP25039V032425  \n as shown in the Table of Benefits. The female Insured Person should have been continuously covered for at least  24 months  before \navailing this benefit.  \nThe New Born Baby  shall be automatically covered from birth  under the Sum Insured available to the mother  during the \ncorresponding Policy Period, for up to 3 months of age.  On attaining  3 months of age, the  New Born Baby  shall be covered only if \nspecifically included in the Policy  mid-term and requisite premium paid to the Company.  \n \nCover  \nMaternity Expenses  means;  \na) Medical treatment expenses traceable to childbirth (including complicated deliveries and caesarean sections incurred during \nHospitalization);  \nb) Expenses towards lawful medica l termination of pregnancy during the Policy Period.",
+        "relevance_score": 0.9999999999999999,
+        "reason": "This section explicitly states that the policy covers maternity expenses and defines what those expenses include."
+      },
+      {
+        "clause_id": "clause_0",
+        "text": "Exclusions  \nThe Company shall not be liable to make any payment under the cover in respect of  Maternity Expenses  incurred in connection with \nor in respect of:  \n1. Covered female Insured Person  below eighteen (18) years  and above forty -five (45) years of age.  \n2. Delivery or termination within a  Waiting Period of twenty -four (24) months.  However, the Waiting Period may be waived \nonly in the case of delivery, miscarriage or abortion induced by accident.   \n3. Delivery or lawful medical termination of pregnancy limited to  two deliveries or terminations or either  has been paid under \nthe Policy an d its Renewals.  \n4. More than one delivery or lawful medical termination of pregnancy during a single Policy Period.  \n5. Maternity Expenses of Surrogate Mother, unless claim is admitted under  Section 3.1.1 5 (Infertility)  \n6. Ectopic pregnancy  \n7. Pre and post hospitalisat ion expenses, other than pre and post natal treatment.",
+        "relevance_score": 0.9999999999999999,
+        "reason": "This section outlines the specific exclusions related to maternity expense coverage."
+      }
+    ]
+  }
+]
