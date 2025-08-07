@@ -1,0 +1,32 @@
+[
+  {
+    "query": "What is the grace period for premium payment under the National Parivar Mediclaim Plus Policy?",
+    "answer": "The grace period for premium payment under the National Parivar Mediclaim Plus Policy is thirty days.",
+    "justification": [
+      {
+        "clause_id": "clause_0",
+        "text": "Grace Period  means the specified period of time, immediately following the premium due date during which premium \npayment can be made to renew or continue a policy in force without loss of continuity benefits pertaining to Waiting Periods \nand coverage of Pre -Existing Diseases. The Grace Period for payment of the premium shall be thirty days.",
+        "relevance_score": 0.5822319984436035,
+        "reason": "This clause directly defines 'Grace Period' and explicitly states that the grace period for premium payment is thirty days, which answers the query."
+      }
+    ]
+  },
+  {
+    "query": "Does this policy cover maternity expenses, and what are the conditions?",
+    "answer": "Yes, this policy covers maternity expenses for any female insured person, including pre-natal and post-natal hospitalization expenses per delivery and necessary vaccinations for a newborn baby. However, the female insured person must have been continuously covered for at least 24 months before availing this benefit, and other conditions and exclusions apply, such as age limits, the number of covered deliveries, and specific expenses.",
+    "justification": [
+      {
+        "clause_id": "clause_0",
+        "text": "3.1.14 Maternity   \nThe Company shall indemnify Maternity Expenses as described below for  any female Insured Person, and also Pre -Natal and Post -\nNatal Hospitalisation expenses per delivery,  including expenses for necessary vaccination  for New Born Baby , subject to the limit National Insurance Co. Ltd.  \nPremises No. 18 -0374, Plot no. CBD -81,  \nNew Town, Kolkata - 700156  Page 7 of 25 National Parivar Mediclaim Plus Policy  \nUIN: NICHLIP25039V032425  \n as shown in the Table of Benefits. The female Insured Person should have been continuously covered for at least  24 months  before \navailing this benefit.  \nThe New Born Baby  shall be automatically covered from birth  under the Sum Insured available to the mother  during the \ncorresponding Policy Period, for up to 3 months of age.  On attaining  3 months of age, the  New Born Baby  shall be covered only if \nspecifically included in the Policy  mid-term and requisite premium paid to the Company.",
+        "relevance_score": 0.99,
+        "reason": "This clause explicitly states that the company will indemnify maternity expenses, pre-natal and post-natal hospitalization, and vaccinations for the newborn, but also mentions the 24-month continuous coverage requirement."
+      },
+      {
+        "clause_id": "clause_0",
+        "text": "Exclusions  \nThe Company shall not be liable to make any payment under the cover in respect of  Maternity Expenses  incurred in connection with \nor in respect of:  \n1. Covered female Insured Person  below eighteen (18) years  and above forty -five (45) years of age.  \n2. Delivery or termination within a  Waiting Period of twenty -four (24) months.  However, the Waiting Period may be waived \nonly in the case of delivery, miscarriage or abortion induced by accident.   \n3. Delivery or lawful medical termination of pregnancy limited to  two deliveries or terminations or either  has been paid under \nthe Policy an d its Renewals.  \n4. More than one delivery or lawful medical termination of pregnancy during a single Policy Period.  \n5. Maternity Expenses of Surrogate Mother, unless claim is admitted under  Section 3.1.1 5 (Infertility)  \n6. Ectopic pregnancy  \n7. Pre and post hospitalisat ion expenses, other than pre and post natal treatment.",
+        "relevance_score": 0.95,
+        "reason": "This clause lists the exclusions for maternity expenses, which are important conditions affecting the coverage. These exclusions include age limits, waiting periods, the number of deliveries covered, and certain types of pregnancies."
+      }
+    ]
+  }
+]
