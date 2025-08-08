@@ -1,0 +1,73 @@
+[
+  {
+    "query": "If my car is stolen, what case will it be in law?",
+    "answer": "This document is a health insurance policy and does not cover car theft. It focuses on medical expenses related to hospitalization, illness, and injury.",
+    "justification": []
+  },
+  {
+    "query": "If I am arrested without a warrant, is that legal?",
+    "answer": "I am sorry, but I cannot provide an answer to this question. The provided document is a health insurance policy and does not contain information about the legality of arrests without a warrant.",
+    "justification": []
+  },
+  {
+    "query": "If someone denies me a job because of my caste, is that allowed?",
+    "answer": "I am sorry, but the document provided pertains to an Arogya Sanjeevani health insurance policy from National Insurance Co. Ltd. and does not contain any information regarding employment law or discrimination based on caste. Therefore, I cannot answer your question based on this document.",
+    "justification": []
+  },
+  {
+    "query": "If the government takes my land for a project, can I stop it?",
+    "answer": "This document is a health insurance policy and does not address the question of whether you can stop the government from taking your land. Therefore, it cannot provide an answer to your question.",
+    "justification": [
+      {
+        "clause_id": "clause_0",
+        "text": "National Insurance Co. Ltd.  \nRegd. & Head Office: Premises No. 18 -0374,  \nPlot no.  CBD -81, New Town, Kolkata - 700156  Page 1 of 16 Arogya Sanjeevani  Policy  - National  \nUIN: NICHLIP25041V022425  \n \nNational Insurance Company Limited  \n     CIN - U10200WB1906GOI001713   IRDAI Regn. No. - 58 \n \nArogya  Sanjeevani  Policy  - National  \n1. PREAMBLE  \nThis Policy is a contract of insurance issued by National Insurance Co. Ltd.  (hereinafter called the \u2018Company\u2019) to the Proposer \nmentioned in the Schedule (hereinafter called the \u2018Insured\u2019) to cover  the person(s) named in the schedule (hereinafter called the \n\u2018Insured Persons\u2019). The Policy is based on the statement s and declaration provided in the Proposal  Form by the Proposer and is \nsubject to receipt of the requisite premium.",
+        "relevance_score": 0.11388170719146729,
+        "reason": "The document is an insurance policy, specifically a health insurance policy, and its preamble indicates that it is a contract of insurance."
+      }
+    ]
+  },
+  {
+    "query": "If my child is forced to work in a factory, is that legal?",
+    "answer": "This document is a health insurance policy and does not contain information about the legality of child labor. Therefore, it cannot answer your question.",
+    "justification": [
+      {
+        "clause_id": "clause_0",
+        "text": "National Insurance Co. Ltd.  \nRegd. & Head Office: Premises No. 18 -0374,  \nPlot no.  CBD -81, New Town, Kolkata - 700156  Page 1 of 16 Arogya Sanjeevani  Policy  - National  \nUIN: NICHLIP25041V022425  \n \nNational Insurance Company Limited  \n     CIN - U10200WB1906GOI001713   IRDAI Regn. No. - 58 \n \nArogya  Sanjeevani  Policy  - National  \n1. PREAMBLE  \nThis Policy is a contract of insurance issued by National Insurance Co. Ltd.  (hereinafter called the \u2018Company\u2019) to the Proposer \nmentioned in the Schedule (hereinafter called the \u2018Insured\u2019) to cover  the person(s) named in the schedule (hereinafter called the \n\u2018Insured Persons\u2019). The Policy is based on the statement s and declaration provided in the Proposal  Form by the Proposer and is \nsubject to receipt of the requisite premium.",
+        "relevance_score": 0.17816120386123657,
+        "reason": "The document is an insurance policy and pertains to health coverage, not labor laws."
+      }
+    ]
+  },
+  {
+    "query": "If I am stopped from speaking at a protest, is that against my rights?",
+    "answer": "I am sorry, but based on the provided document, which is a health insurance policy, I cannot answer your question about whether being stopped from speaking at a protest violates your rights. This document pertains to health insurance coverage and does not address freedom of speech or protest rights.",
+    "justification": []
+  },
+  {
+    "query": "If a religious place stops me from entering because I'm a woman, is that constitutional?",
+    "answer": "The provided document is a health insurance policy and does not contain information about the constitutionality of denying entry to religious places based on gender. Therefore, it cannot be used to answer the question.",
+    "justification": []
+  },
+  {
+    "query": "If I change my religion, can the government stop me?",
+    "answer": "I am sorry, but based on the document provided, there is no information about whether the government can stop you from changing your religion. The document pertains to the terms and conditions of a health insurance policy.",
+    "justification": []
+  },
+  {
+    "query": "If the police torture someone in custody, what right is being violated?",
+    "answer": "The provided document is a health insurance policy and does not address human rights violations or police conduct. Therefore, it does not contain information about rights violated by police torture.",
+    "justification": [
+      {
+        "clause_id": "clause_0",
+        "text": "National Insurance Co. Ltd.  \nRegd. & Head Office: Premises No. 18 -0374,  \nPlot no.  CBD -81, New Town, Kolkata - 700156  Page 1 of 16 Arogya Sanjeevani  Policy  - National  \nUIN: NICHLIP25041V022425  \n \nNational Insurance Company Limited  \n CIN - U10200WB1906GOI001713   IRDAI Regn. No. - 58 \n \nArogya  Sanjeevani  Policy  - National  \n1. PREAMBLE  \nThis Policy is a contract of insurance issued by National Insurance Co. Ltd.  (hereinafter called the \u2018Company\u2019) to the Proposer \nmentioned in the Schedule (hereinafter called the \u2018Insured\u2019) to cover  the person(s) named in the schedule (hereinafter called the \n\u2018Insured Persons\u2019). The Policy is based on the statement s and declaration provided in the Proposal  Form by the Proposer and is \nsubject to receipt of the requisite premium.",
+        "relevance_score": 0.1336548924446106,
+        "reason": "The document is clearly identified as a health insurance policy offered by National Insurance Co. Ltd. It outlines the terms and conditions of insurance coverage, not legal rights or police conduct."
+      }
+    ]
+  },
+  {
+    "query": "If I'm denied admission to a public university because I'm from a backward community, can I do something?",
+    "answer": "The provided document is a health insurance policy and does not address the issue of denial of admission to a public university based on community affiliation. Therefore, it doesn't offer any direct recourse in this situation. You should seek legal advice or contact relevant authorities dealing with discrimination in education.",
+    "justification": []
+  }
+]

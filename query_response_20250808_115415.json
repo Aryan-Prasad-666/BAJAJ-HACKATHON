@@ -1,0 +1,14 @@
+[
+  {
+    "query": "I have raised a claim for hospitalization for Rs 200,000 with HDFC, and it's approved. My total expenses are Rs 250,000. Can I raise the remaining Rs 50,000 with you?",
+    "answer": "Clause 10.8 (i) of the policy states that if you have multiple policies, you have the right to claim from any of your policies as long as the claim falls within the limits and terms of the chosen policy. Therefore, you can claim the remaining amount from National Insurance, subject to the terms and conditions of your policy with them.",
+    "justification": [
+      {
+        "clause_id": "10.8",
+        "text": "In case of multiple policies taken by an insured person during a period from one or more insurers to indemnify treatment costs, the insured person shall have the right to require a settlement of his/her claim in terms of any of his/her policies. In all such cases the insurer chosen by the insured person shall be obliged to settle the claim as long as the claim is within the limits of and according to the terms of the chosen policy.",
+        "relevance_score": 0.3514394760131836,
+        "reason": "This clause directly addresses the scenario where an insured person has multiple policies and explains their right to claim from any of them, as long as it is within the policy's terms and limits."
+      }
+    ]
+  }
+]

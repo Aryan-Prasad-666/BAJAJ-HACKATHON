@@ -1,0 +1,59 @@
+[
+  {
+    "query": "If my car is stolen, what case will it be in law?",
+    "answer": "I am sorry, but based on the provided document, I cannot answer what case a stolen car would be in law. This document pertains to health insurance policies and does not address legal matters related to vehicle theft.",
+    "justification": []
+  },
+  {
+    "query": "If I am arrested without a warrant, is that legal?",
+    "answer": "I am sorry, but based on the provided document, I cannot answer whether being arrested without a warrant is legal. The document pertains to an Arogya Sanjeevani health insurance policy and does not contain any information related to legal procedures or arrests.",
+    "justification": []
+  },
+  {
+    "query": "If someone denies me a job because of my caste, is that allowed?",
+    "answer": "The provided document is a health insurance policy and does not address employment discrimination based on caste. Therefore, it cannot be used to determine whether denying someone a job based on caste is allowed.",
+    "justification": []
+  },
+  {
+    "query": "If the government takes my land for a project, can I stop it?",
+    "answer": "I am sorry, but based on the provided document, I cannot answer your query. The document is a health insurance policy and does not contain information about government land acquisition or eminent domain.",
+    "justification": []
+  },
+  {
+    "query": "If my child is forced to work in a factory, is that legal?",
+    "answer": "I am sorry, but based on the provided document, I cannot provide an answer to your query. The document is an insurance policy and does not contain information about child labor laws.",
+    "justification": [
+      {
+        "clause_id": "clause_0",
+        "text": " National Insurance Co. Ltd.  \nRegd. & Head Office: Premises No. 18 -0374,  \nPlot no.  CBD -81, New Town, Kolkata - 700156  Page 1 of 16 Arogya Sanjeevani  Policy  - National  \nUIN: NICHLIP25041V022425  \n \nNational Insurance Company Limited  \n CIN - U10200WB1906GOI001713   IRDAI Regn. No. - 58 \n \nArogya  Sanjeevani  Policy  - National  \n1. PREAMBLE  \nThis Policy is a contract of insurance issued by National Insurance Co. Ltd.  (hereinafter called the \u2018Company\u2019) to the Proposer \nmentioned in the Schedule (hereinafter called the \u2018Insured\u2019) to cover  the person(s) named in the schedule (hereinafter called the \n\u2018Insured Persons\u2019). The Policy is based on the statement s and declaration provided in the Proposal  Form by the Proposer and is \nsubject to receipt of the requisite premium.  \n  \n2. OPERATIVE CLAUSE  \nIf during the Policy Period  one or more Insured Person (s) is required to be hospitalized for treatment of an Illness or Injury at a \nHospit al/ Day Care Center, following Medical Advice of a duly qualified Medical Practitioner, the Company shall indemnify \nMedically Necessary, expenses towards the Coverage mentioned hereunder.  \nProvided further that, any amount payable under the Policy shall be subject to the terms of coverage (including any co-pay, sub \nlimits), exclusions, conditions and definitions contained herein. Maximum liability of the Company under all such Claims duri ng \neach Policy Period shall be the Sum Insured (Individual or Floater) opted and Cumulative Bonus ( if any ) specified in the Schedule . ",
+        "relevance_score": 0.17816120386123657,
+        "reason": "The document is a health insurance policy and does not contain any information on child labor laws."
+      }
+    ]
+  },
+  {
+    "query": "If I am stopped from speaking at a protest, is that against my rights?",
+    "answer": "I am sorry, but this document discusses a health insurance policy and does not contain information about your rights to speak at a protest. Therefore, I cannot answer your question.",
+    "justification": []
+  },
+  {
+    "query": "If a religious place stops me from entering because I'm a woman, is that constitutional?",
+    "answer": "The provided document is a health insurance policy and does not contain information related to the constitutionality of denying women entry to religious places.",
+    "justification": []
+  },
+  {
+    "query": "If I change my religion, can the government stop me?",
+    "answer": "This document pertains to a health insurance policy and does not contain information regarding the government's ability to prevent a change in religion.",
+    "justification": []
+  },
+  {
+    "query": "If the police torture someone in custody, what right is being violated?",
+    "answer": "The provided document is a health insurance policy and does not address the rights being violated if the police torture someone in custody. Therefore, I cannot answer the query.",
+    "justification": []
+  },
+  {
+    "query": "If I'm denied admission to a public university because I'm from a backward community, can I do something?",
+    "answer": "The provided text is a health insurance policy document and does not contain information about denial of admission to public universities or discrimination based on community. Therefore, it cannot answer the question.",
+    "justification": []
+  }
+]

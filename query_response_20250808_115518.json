@@ -1,0 +1,56 @@
+[
+  {
+    "query": "Is Non-infective Arthritis covered?",
+    "answer": "Non-Infective Arthritis is covered under this policy, but there is a waiting period of 24 months from the policy's inception before claims related to it can be made.",
+    "justification": [
+      {
+        "clause_id": "clause_0",
+        "text": "6.3. Specified di sease/procedure waiting period (Excl  02) \na) Expenses related to the treatment of the listed Conditions, surgeries/treatments shall be excluded until the expiry of 24 \n(twenty four) months of continuous coverage after the date of inception of the first policy w ith us. This exclusion shall not \nbe applicable for claims arising due to an accident",
+        "relevance_score": 0.3178291916847229,
+        "reason": "This clause specifies a waiting period for certain diseases and procedures."
+      },
+      {
+        "clause_id": "clause_0",
+        "text": "i. 24 Months waiting period  \n...\n14. Non Infective Arthritis",
+        "relevance_score": 0.3178291916847229,
+        "reason": "This sub-clause lists Non-Infective Arthritis as one of the conditions subject to a 24-month waiting period."
+      }
+    ]
+  },
+  {
+    "query": "I renewed my policy yesterday, and I have been a customer for the last 6 years. Can I raise a claim for Hydrocele?",
+    "answer": "Based on the provided policy clauses, you can raise a claim for Hydrocele. However, the claim may be subject to a waiting period of 24 months from the inception of the policy. Since you have been a customer for 6 years (72 months), the waiting period should no longer be applicable, and the claim should be admissible, provided all other policy terms and conditions are met.",
+    "justification": [
+      {
+        "clause_id": "6.3",
+        "text": "a) Expenses related to the treatment of the listed Conditions, surgeries/treatments shall be excluded until the expiry of 24 (twenty four) months of continuous coverage after the date of inception of the first policy w ith us. This exclusion shall not be applicable for claims arising due to an accident",
+        "relevance_score": 0.39231646060943604,
+        "reason": "This clause specifies a 24-month waiting period for certain listed conditions, including Hydrocele."
+      },
+      {
+        "clause_id": "6.3",
+        "text": "f) List of specific diseases/procedures \ni. 24 Months waiting period ... 13. Hydrocele",
+        "relevance_score": 0.39231646060943604,
+        "reason": "This clause explicitly lists Hydrocele as one of the conditions subject to the 24-month waiting period."
+      },
+      {
+        "clause_id": "8",
+        "text": "After completion of sixty continuous months of coverage (including Portability and Migration), no claim shall be contestable by the \nCompany on grounds of non -disclosure, misrepresentation, except on grounds of established fraud.",
+        "relevance_score": 0,
+        "reason": "This clause states that after 60 months of continuous coverage, claims cannot be contested on grounds of non-disclosure or misrepresentation (except fraud). Since the customer has been with the company for 6 years, this strengthens the possibility of claim acceptance, assuming there was no fraud, misrepresentation or non-disclosure during policy application."
+      }
+    ]
+  },
+  {
+    "query": "Is abortion covered?",
+    "answer": "The policy excludes medical treatment expenses traceable to childbirth, including complicated deliveries and caesarean sections incurred during hospitalization, except ectopic pregnancy. Expenses towards miscarriage (unless due to an accident) and lawful medical termination of pregnancy during the policy period are covered. Thus, abortion is generally not covered unless it falls under the exception of miscarriage due to an accident or lawful medical termination of pregnancy.",
+    "justification": [
+      {
+        "clause_id": "7.15",
+        "text": "i. Medical treatment expenses traceable to childbirth (including complicated deliveries and caesarean sections incurred \nduring hospitalization) except ectopic pregnancy;\nii. Expenses towards miscarriage (unless due to an accident) and lawful medical termination of pregnancy during the policy \nperiod.",
+        "relevance_score": 0.3077816963195801,
+        "reason": "This clause directly addresses maternity expenses and specifies the exclusion of childbirth-related treatments, while covering miscarriage (if due to accident) and lawful medical termination of pregnancy, which is relevant to the query about abortion coverage."
+      }
+    ]
+  }
+]

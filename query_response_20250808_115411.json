@@ -1,0 +1,62 @@
+[
+  {
+    "query": "When will my root canal claim of Rs 25,000 be settled?",
+    "answer": "The company is required to settle or reject a claim within 15 days from the date of receipt of the last necessary document. However, if the circumstances of a claim warrant an investigation, the company has 45 days from the date of receipt of the last necessary document to settle or reject the claim.",
+    "justification": [
+      {
+        "clause_id": "9.4",
+        "text": "i. The Company shall settle or reject a claim, as the case may be, within 15 days from the date of receipt of last necessary document.",
+        "relevance_score": 0.27944415807724,
+        "reason": "This clause specifies the standard claim settlement timeframe of 15 days."
+      },
+      {
+        "clause_id": "9.4",
+        "text": "iii. However, where the circumstances of a claim warrant an investigation in the opinion of the Company, it shall initiate and \ncomplete such investigation at the earliest, in any case not later than 30 days from the date of receipt of last necessary documen t. \nIn such cases, the Company shall settle or reject the claim within 45 days from the date of receipt of last necessary documen t.",
+        "relevance_score": 0.27944415807724,
+        "reason": "This clause outlines the extended timeframe of 45 days for claim settlement when an investigation is required."
+      }
+    ]
+  },
+  {
+    "query": "I have done an IVF for Rs 56,000. Is it covered?",
+    "answer": "Based on the provided policy document, IVF treatment is generally excluded under the 'Sterility and Infertility' exclusion (7.14). Therefore, it is unlikely to be covered.",
+    "justification": [
+      {
+        "clause_id": "7.14",
+        "text": "Sterility and Infertility (Code \u2013 Excl  17) \nExpenses related to sterility and infertility. This includes:  \ni. Any type of sterilization  \nii. Assisted Reproduction services including artificial insemination and advanced reproductive technologies such as IVF, \nZIFT, GIFT, ICSI  \niii. Gestational Surrogacy  \niv. Reversal of  sterilization",
+        "relevance_score": 0.99,
+        "reason": "This clause explicitly excludes expenses related to sterility and infertility treatments, including IVF, which is an assisted reproduction service."
+      }
+    ]
+  },
+  {
+    "query": "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+    "answer": "The company will indemnify medical expenses incurred for cataract treatment, subject to a limit of 25% of the Sum Insured or INR 40,000 per eye, whichever is lower, per each eye in one Policy Period. Also, a co-payment may be applicable to the claim amount, depending on your age at the time of policy inception. Therefore, the full Rs 100,000 may not be settled.",
+    "justification": [
+      {
+        "clause_id": "clause_0",
+        "text": "The Company shall indemnify medical expenses incurred for t reatment of Cataract, subject to a limit of 25 % of Sum Insured  or INR \n40,000 per eye, whichever is lower, per each eye in  one Policy Period .",
+        "relevance_score": 0.2917977571487427,
+        "reason": "This clause directly addresses the coverage for cataract treatment and specifies the sub-limit applicable, which is 25% of the sum insured or INR 40,000 per eye, whichever is lower."
+      },
+      {
+        "clause_id": "clause_0",
+        "text": "Each and every claim under the Policy shall  be subject to a Co -payment as mentioned below , applicable to claim amount admissible \nand payable as per the terms and conditions of the Policy. The amount payable shall be after deduction of the co -payment.  \n\u2022 Co-payment of 5% on all claims for Insured Person aged less than equal to 75 years on policy inception  \n\u2022 Co-payment of 15% on all claims for Insured Person aged greater than 75 years on policy incept ion",
+        "relevance_score": 0.2917977571487427,
+        "reason": "This clause explains the co-payment that may be applicable, which reduces the claim amount that will actually be paid."
+      }
+    ]
+  },
+  {
+    "query": "Give me a list of documents to be uploaded for hospitalization for heart surgery.",
+    "answer": "Based on the provided document, the following documents are required for reimbursement claim:\n\ni. Duly completed claim form\nii. Photo Identity proof of the patient\niii. Medical practitioner\u2019s prescription advising admission.\niv. Original bills with itemized break-up\nv. Payment receipts\nvi. Discharge summary including complete medical history of the patient along with other details.\nvii. Investigation/ Diagnostic test reports etc. supported by the prescription from attending medical practitioner\nviii. OT notes or Surgeon's certificate giving details of the operation performed (for surgical cases).\nix. Sticker/Invoice of the Implants, wherever applicable.\nx. MLR (Medico Legal Report copy if carried out and FIR (First information report) if registered, where ever applicable.\nxi. NEFT Details (to enable direct credit of claim amount in bank account) and cancelled cheque\nxii. KYC (Identity proof with Address) of the proposer, where claim liability is above Rs. 1 Lakh as per AML Guidelines\nxiii. Legal heir/succession certificate, wherever applicable\nxiv. Any other relevant document required by Company/TPA for assessment of the claim.",
+    "justification": [
+      {
+        "clause_id": "clause_0",
+        "text": "9.2. Documents  to be submitted  \nThe reimbursement claim is to be supported with the following documents and submitted within the prescribed time limit.  \ni. Duly completed claim form  \nii. Photo Identity proof of the patient  \niii. Medical practitioner\u2019s prescription advising admission.  \niv. Original bills with itemized break -up  \nv. Payment receipts  \nvi. Discharge summary including complete medical history of the patient along with other details.  \nvii. Investigation/ Diagnostic test reports etc. supported by the prescription from attending medical practitioner  \nviii. OT notes or Surgeon's certificate giving details of the operation performed (for surgical cases).  \nix. Sticker/Invoice of the Implants, wherever applicable.  \nx. MLR (Medico Legal Report copy if carried out and FIR (First information report) if registered, where ever applicable.  \nxi. NEFT Details (to enable direct credit of claim amount in bank account) and cancelled cheque  \nxii. KYC (Identity proof with Address) of the proposer, where claim liability is above Rs. 1 Lakh as per AML Guidelines  \nxiii. Legal heir/succession certificate, wherever applicable  \nxiv. Any other relevant document required by Company/TPA for assessment of the claim.",
+        "relevance_score": 0.24824345111846924,
+        "reason": "This section specifies the documents needed for claim reimbursement, which directly answers the query about required documents for hospitalization for heart surgery."
+      }
+    ]
+  }
+]

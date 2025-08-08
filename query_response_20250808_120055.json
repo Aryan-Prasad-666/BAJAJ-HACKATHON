@@ -1,0 +1,62 @@
+[
+  {
+    "query": "When will my root canal claim of Rs 25,000 be settled?",
+    "answer": "The company is required to settle or reject a claim within 15 days from the date of receipt of the last necessary document. If the circumstances of a claim warrant an investigation, the company has a maximum of 45 days from the date of receipt of the last necessary document to settle or reject the claim.",
+    "justification": [
+      {
+        "clause_id": "clause_0",
+        "text": "i. The Company shall settle or reject a claim, as the case may be, within 15 days from the date of receipt of last necessary \ndocument.  \niii. However, where the circumstances of a claim warrant an investigation in the opinion of the Company, it shall initiate and \ncomplete such investigation at the earliest, in any case not later than 30 days from the date of receipt of last necessary documen t. \nIn such cases, the Company shall settle or reject the claim within 45 days from the date of receipt of last necessary documen t.",
+        "relevance_score": 0.27944415807724,
+        "reason": "Clause 9.4 specifies the timelines for claim settlement or rejection by the insurance company, including the standard 15-day period and the extended 45-day period if an investigation is required."
+      }
+    ]
+  },
+  {
+    "query": "I have done an IVF for Rs 56,000. Is it covered?",
+    "answer": "No, the policy excludes expenses related to sterility and infertility treatments, including IVF (In Vitro Fertilization).",
+    "justification": [
+      {
+        "clause_id": "7.14",
+        "text": "Sterility and Infertility (Code \u2013 Excl 17) \nExpenses related to sterility and infertility. This includes: \ni. Any type of sterilization \nii. Assisted Reproduction services including artificial insemination and advanced reproductive technologies such as IVF, \nZIFT, GIFT, ICSI",
+        "relevance_score": 0.99,
+        "reason": "This clause explicitly excludes expenses related to sterility and infertility treatments, including IVF."
+      }
+    ]
+  },
+  {
+    "query": "I did a cataract treatment of Rs 100,000. Will you settle the full Rs 100,000?",
+    "answer": "The policy covers cataract treatment with a limit of 25% of the Sum Insured or INR 40,000 per eye, whichever is lower, per eye in one Policy Period. A co-payment may also apply.",
+    "justification": [
+      {
+        "clause_id": "clause_0",
+        "text": "The Company shall indemnify medical expenses incurred for t reatment of Cataract, subject to a limit of 25 % of Sum Insured  or INR \n40,000 per eye, whichever is lower, per each eye in  one Policy Period .",
+        "relevance_score": 0.2917977571487427,
+        "reason": "This clause directly addresses the coverage for cataract treatment and specifies the sub-limit."
+      },
+      {
+        "clause_id": "clause_0",
+        "text": "Each and every claim under the Policy shall  be subject to a Co -payment as mentioned below , applicable to claim amount admissible \nand payable as per the terms and conditions of the Policy. The amount payable shall be after deduction of the co -payment.  \n\u2022 Co-payment of 5% on all claims for Insured Person aged less than equal to 75 years on policy inception  \n\u2022 Co-payment of 15% on all claims for Insured Person aged greater than 75 years on policy incept ion",
+        "relevance_score": 0.2917977571487427,
+        "reason": "This clause indicates the possibility of a co-payment, which would reduce the final settlement amount."
+      }
+    ]
+  },
+  {
+    "query": "Give me a list of documents to be uploaded for hospitalization for heart surgery.",
+    "answer": "To process a reimbursement claim for hospitalization, day care, and pre/post-hospitalization expenses, you'll need to provide the following documents: a completed claim form, photo ID of the patient, the medical practitioner's prescription advising admission, original bills with itemized break-up, payment receipts, a discharge summary including complete medical history, investigation/diagnostic test reports with prescriptions, OT notes or surgeon's certificate (if surgical), sticker/invoice of implants (if applicable), MLR/FIR copy (if applicable), NEFT details and a cancelled cheque, KYC of the proposer (if claim exceeds Rs. 1 Lakh), legal heir/succession certificate (if applicable), and any other relevant document requested by the Company/TPA. These documents must be submitted within 30 days of discharge for hospitalization/day care and pre-hospitalization expenses, and within 15 days of post-hospitalization treatment completion.",
+    "justification": [
+      {
+        "clause_id": "clause_0",
+        "text": "9.2. Documents  to be submitted  \nThe reimbursement claim is to be supported with the following documents and submitted within the prescribed time limit.  \ni. Duly completed claim form  \nii. Photo Identity proof of the patient  \niii. Medical practitioner\u2019s prescription advising admission.  \niv. Original bills with itemized break -up  \nv. Payment receipts  \nvi. Discharge summary including complete medical history of the patient along with other details.  \nvii. Investigation/ Diagnostic test reports etc. supported by the prescription from attending medical practitioner  \nviii. OT notes or Surgeon's certificate giving details of the operation performed (for surgical cases).  \nix. Sticker/Invoice of the Implants, wherever applicable.  \nx. MLR (Medico Legal Report copy if carried out and FIR (First information report) if registered, where ever applicable.  \nxi. NEFT Details (to enable direct credit of claim amount in bank account) and cancelled cheque  \nxii. KYC (Identity proof with Address) of the proposer, where claim liability is above Rs. 1 Lakh as per AML Guidelines  \nxiii. Legal heir/succession certificate, wherever applicable  \nxiv. Any other relevant document required by Company/TPA for assessment of the claim.",
+        "relevance_score": 0.24824345111846924,
+        "reason": "This section lists the documents required for reimbursement of claims, directly answering the query."
+      },
+      {
+        "clause_id": "clause_0",
+        "text": "Sl. \nNo. Type of claim  Prescribed Time limit  \n1. Reimbursement of hospitalisation, day care and pre hospitalisation  \nexpenses  Within thirty days of date of discharge \nfrom hospital  \n2. Reimbursement of  post hospitalisation  expenses  Within fifteen days from completion of \npost hospitalisation  treatment",
+        "relevance_score": 0.24824345111846924,
+        "reason": "This specifies the time limit for submitting the reimbursement documents."
+      }
+    ]
+  }
+]

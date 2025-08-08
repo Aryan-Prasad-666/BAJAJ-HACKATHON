@@ -1,0 +1,20 @@
+[
+  {
+    "query": "I have raised a claim for hospitalization for Rs 200,000 with HDFC, and it's approved. My total expenses are Rs 250,000. Can I raise the remaining Rs 50,000 with you?",
+    "answer": "The policy includes a clause on 'Multiple Policies' (10.8) that allows you to claim from multiple insurers. You can claim the remaining amount from National Insurance, subject to the terms and conditions of the policy, and up to the sum insured.",
+    "justification": [
+      {
+        "clause_id": "clause_0",
+        "text": "10.8. Multiple Policies\ni. In case of multiple policies taken by an insured person during a period from one or more insurers to indemnify treatment costs, \nthe insured person shall have the right to require a settlement of his/her claim in terms of any of his/her policies. In all such \ncases the insurer chosen by the insured person shall be obliged to settle the claim as long as the claim is within the limits of and \naccording to the terms of the chosen policy.\nii. Insured person having multiple policies shall also have the right to prefer claims under this policy for the amounts disallow ed \nunder any other policy / policies. Then the insurer shall independently settle the claim subject to the terms and conditions of \nthis policy.",
+        "relevance_score": 0.3514394760131836,
+        "reason": "This clause explicitly addresses the scenario where an insured person has multiple policies and outlines the process for claiming from each."
+      },
+      {
+        "clause_id": "clause_0",
+        "text": "2. OPERATIVE CLAUSE\nIf during the Policy Period one or more Insured Person (s) is required to be hospitalized for treatment of an Illness or Injury at a\nHospit al/ Day Care Center, following Medical Advice of a duly qualified Medical Practitioner, the Company shall indemnify\nMedically Necessary, expenses towards the Coverage mentioned hereunder.\nProvided further that, any amount payable under the Policy shall be subject to the terms of coverage (including any co-pay, sub\nlimits), exclusions, conditions and definitions contained herein. Maximum liability of the Company under all such Claims duri ng\neach Policy Period shall be the Sum Insured (Individual or Floater) opted and Cumulative Bonus ( if any ) specified in the Schedule.",
+        "relevance_score": 0.3514394760131836,
+        "reason": "This clause reinforces that any payment is subject to the overall terms, conditions, and the sum insured limits of the policy."
+      }
+    ]
+  }
+]

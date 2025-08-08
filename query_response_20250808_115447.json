@@ -1,0 +1,41 @@
+[
+  {
+    "query": "What is the ideal spark plug gap recommeded",
+    "answer": "I am sorry, but I cannot provide an answer to your query. The document provided is a health insurance policy and does not contain information about spark plug gaps.",
+    "justification": []
+  },
+  {
+    "query": "Does this comes in tubeless tyre version",
+    "answer": "I am sorry, but based on the provided document, I cannot determine whether the product comes in a tubeless tyre version, as the document pertains to health insurance policies and does not contain information about tyres.",
+    "justification": [
+      {
+        "clause_id": "clause_0",
+        "text": "National Insurance Co. Ltd.  \nRegd. & Head Office: Premises No. 18 -0374,  \nPlot no.  CBD -81, New Town, Kolkata - 700156  Page 1 of 16 Arogya Sanjeevani  Policy  - National  \nUIN: NICHLIP25041V022425  \n \nNational Insurance Company Limited  \n CIN - U10200WB1906GOI001713   IRDAI Regn. No. - 58 \n \nArogya  Sanjeevani  Policy  - National",
+        "relevance_score": 0.14902865886688232,
+        "reason": "The document is a health insurance policy document from National Insurance Co. Ltd., and there is no mention of tyres or related products."
+      }
+    ]
+  },
+  {
+    "query": "Is it compulsoury to have a disc brake",
+    "answer": "I am sorry, but based on the provided document, I cannot determine whether it is compulsory to have a disc brake. The document focuses on health insurance policies and does not contain information related to vehicle requirements or regulations.",
+    "justification": [
+      {
+        "clause_id": "clause_0",
+        "text": "National Insurance Co. Ltd.  \nRegd. & Head Office: Premises No. 18 -0374,  \nPlot no.  CBD -81, New Town, Kolkata - 700156  Page 1 of 16 Arogya Sanjeevani  Policy  - National  \nUIN: NICHLIP25041V022425  \n \nNational Insurance Company Limited  \n     CIN - U10200WB1906GOI001713   IRDAI Regn. No. - 58 \n \nArogya  Sanjeevani  Policy  - National  \n1. PREAMBLE  \nThis Policy is a contract of insurance issued by National Insurance Co. Ltd.  (hereinafter called the \u2018Company\u2019) to the Proposer \nmentioned in the Schedule (hereinafter called the \u2018Insured\u2019) to cover  the person(s) named in the schedule (hereinafter called the \u2018Insured Persons\u2019). The Policy is based on the statement s and declaration provided in the Proposal  Form by the Proposer and is \nsubject to receipt of the requisite premium.  \n  \n2. OPERATIVE CLAUSE  \nIf during the Policy Period  one or more Insured Person (s) is required to be hospitalized for treatment of an Illness or Injury at a \nHospit al/ Day Care Center, following Medical Advice of a duly qualified Medical Practitioner, the Company shall indemnify \nMedically Necessary, expenses towards the Coverage mentioned hereunder.  \nProvided further that, any amount payable under the Policy shall be subject to the terms of coverage (including any co-pay, sub \nlimits), exclusions, conditions and definitions contained herein. Maximum liability of the Company under all such Claims duri ng \neach Policy Period shall be the Sum Insured (Individual or Floater) opted and Cumulative Bonus ( if any ) specified in the Schedule .",
+        "relevance_score": 0.10070562362670898,
+        "reason": "This preamble and operative clause establish that the document pertains to a health insurance policy, not vehicle regulations or requirements."
+      }
+    ]
+  },
+  {
+    "query": "Can I put thums up instead of oil",
+    "answer": "I am sorry, but I cannot answer this query. The policy document does not specify what can be put instead of oil.",
+    "justification": []
+  },
+  {
+    "query": "Give me JS code to generate a random number between 1 and 100",
+    "answer": "```javascript\nfunction getRandomNumber() {\n  return Math.floor(Math.random() * 100) + 1;\n}\n\nconsole.log(getRandomNumber());\n```\n\nThis JavaScript code generates a random integer between 1 and 100 (inclusive).",
+    "justification": []
+  }
+]

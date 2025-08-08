@@ -1,0 +1,50 @@
+[
+  {
+    "query": "Is Non-infective Arthritis covered?",
+    "answer": "Non-infective Arthritis is covered under this policy, but it is subject to a waiting period of 24 months from the inception of the first policy with the company.",
+    "justification": [
+      {
+        "clause_id": "6.3",
+        "text": "a) Expenses related to the treatment of the listed Conditions, surgeries/treatments shall be excluded until the expiry of 24 (twenty four) months of continuous coverage after the date of inception of the first policy w ith us. This exclusion shall not be applicable for claims arising due to an accident",
+        "relevance_score": 0.95,
+        "reason": "This clause specifies a 24-month waiting period for the treatment of listed conditions."
+      },
+      {
+        "clause_id": "6.3",
+        "text": "f) List of specific diseases/procedures \ni. 24 Months waiting period  \n14. Non Infective Arthritis",
+        "relevance_score": 0.95,
+        "reason": "This clause explicitly lists Non Infective Arthritis as one of the conditions subject to a 24-month waiting period."
+      }
+    ]
+  },
+  {
+    "query": "I renewed my policy yesterday, and I have been a customer for the last 6 years. Can I raise a claim for Hydrocele?",
+    "answer": "Based on the policy clauses provided, specifically clause 6.3.f.i.13, Hydrocele is listed under the specified diseases/procedures with a waiting period of 24 months of continuous coverage.  Since you have been a customer for 6 years, which is well over 24 months, and assuming there has been no break in your policy, you should be able to raise a claim for Hydrocele.",
+    "justification": [
+      {
+        "clause_id": "6.3",
+        "text": "6.3. Specified di sease/procedure waiting period (Excl  02) \na) Expenses related to the treatment of the listed Conditions, surgeries/treatments shall be excluded until the expiry of 24 \n(twenty four) months of continuous coverage after the date of inception of the first policy w ith us. This exclusion shall not \nbe applicable for claims arising due to an accident  \nb) In case of enhancement of sum insured the exclusion shall apply afresh to the extent of sum insured increase.  \nc) If any of the specified disease/procedure falls under the wai ting period specified for Pre -Existing Diseases, then the longer \nof the two waiting periods shall apply.  \nd) The waiting period for listed conditions shall apply even if contracted after the policy or declared and accepted without a \nspecific exclusion.  \ne) If the Insured Person is continuously covered without any break as defined under the applicable norms on portability \nstipulated by IRDAI, then waiting period for the same would be reduced to the extent of prior coverage.  \nf) List of specific diseases/procedures",
+        "relevance_score": 0.95,
+        "reason": "This clause specifies a waiting period for certain diseases and procedures."
+      },
+      {
+        "clause_id": "6.3",
+        "text": "13. Hydrocele",
+        "relevance_score": 0.95,
+        "reason": "This sub-clause lists Hydrocele as one of the specific diseases subject to the 24-month waiting period."
+      }
+    ]
+  },
+  {
+    "query": "Is abortion covered?",
+    "answer": "The policy excludes medical treatment expenses traceable to childbirth, except for ectopic pregnancy. However, it covers expenses towards miscarriage (unless due to an accident) and lawful medical termination of pregnancy during the policy period.",
+    "justification": [
+      {
+        "clause_id": "7.15",
+        "text": "Maternity Expenses (Code \u2013 Excl  18) \ni. Medical treatment expenses traceable to childbirth (including complicated deliveries and caesarean sections incurred \nduring hospitalization) except ectopic pregnancy;  \nii. Expenses towards miscarriage (unless due to an accident) and lawful medical termination of pregnancy during the policy \nperiod.",
+        "relevance_score": 0.3077816963195801,
+        "reason": "This clause explicitly states the exclusion of medical treatment expenses related to childbirth, except for ectopic pregnancies, and the inclusion of expenses for miscarriage (unless due to an accident) and lawful medical termination of pregnancy."
+      }
+    ]
+  }
+]
